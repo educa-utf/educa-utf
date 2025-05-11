@@ -2,8 +2,8 @@
 * [Educa UTF](https://educautf.td.utfpr.edu.br/)
 * [Umami](https://educautf.td.utfpr.edu.br/umami)
 * [PB](https://educautf.td.utfpr.edu.br/db/_)
-* [Documentação](https://zrafaf.github.io/educa-utf/)
-* [PDF](https://zrafaf.github.io/educa-utf/pdf/document.pdf)
+* [Documentação](https://educa-utf.github.io/educa-utf/)
+* [PDF](https://github.com/educa-utf/educa-utf/blob/gh-pages/pdf/document.pdf)
 
 ## Dependências
 
