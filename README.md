@@ -5,12 +5,7 @@
 * [Documentação](https://educa-utf.github.io/educa-utf/)
 * [PDF](https://github.com/educa-utf/educa-utf/blob/gh-pages/pdf/document.pdf)
 
-## Dependências
-
--   [Markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx)
-
 ## Getting Started
-
 First, run the development server:
 
 ```bash
